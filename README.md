@@ -1,5 +1,5 @@
 
-width="1416" height="752" alt="img_6a1afff16c22a" src="https://github.com/user-attachments/assets/350dbaf7-b919-4856-ac79-d8bcee15b247" />
+<img width="1416" height="752" alt="img_6a1afff16c22a" src="https://github.com/user-attachments/assets/02b01138-fdec-4375-8ce8-8d2c0332bb4f" />
 
 MicroBlog CMS PRO: Publishing, Reimagined
 🚀 The Elevator Pitch
